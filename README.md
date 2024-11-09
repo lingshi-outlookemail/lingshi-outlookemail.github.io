@@ -1,1 +1,1 @@
-<p>临时outlook邮箱账号</p>
+<p>临时outlook邮箱、Chat GPT账号</p>
